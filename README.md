@@ -2,12 +2,6 @@
 
 ### A blockchain-based Medical Records Management System
 
-Members:
-1. Chirag Jain(2021H1030072H)
-2. Aman Saxena(2021H1030120H)
-3. Pranjal Gupta(2021H1030102H)
-4. Ashay Netke(2021H1030085H)
-
 > Module: 
 * app -> app.js
 
